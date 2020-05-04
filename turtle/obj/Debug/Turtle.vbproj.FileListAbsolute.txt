@@ -1,0 +1,12 @@
+W:\Projects\Turtle\Turtle\bin\Debug\Turtle.exe.config
+W:\Projects\Turtle\Turtle\bin\Debug\Turtle.exe
+W:\Projects\Turtle\Turtle\bin\Debug\Turtle.pdb
+W:\Projects\Turtle\Turtle\bin\Debug\Turtle.xml
+W:\Projects\Turtle\Turtle\obj\Debug\Turtle.frmMain.resources
+W:\Projects\Turtle\Turtle\obj\Debug\Turtle.Resources.resources
+W:\Projects\Turtle\Turtle\obj\Debug\Turtle.vbproj.GenerateResource.Cache
+W:\Projects\Turtle\Turtle\obj\Debug\Turtle.exe
+W:\Projects\Turtle\Turtle\obj\Debug\Turtle.xml
+W:\Projects\Turtle\Turtle\obj\Debug\Turtle.pdb
+W:\Projects\Turtle\Turtle\obj\Debug\Turtle.frmMachines.resources
+W:\Projects\Turtle\Turtle\obj\Debug\Turtle.frmBatch.resources
